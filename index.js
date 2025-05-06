@@ -1,0 +1,1 @@
+console.log ("Bem-vindos, senhoras e senhores.")
